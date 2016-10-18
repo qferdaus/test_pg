@@ -1,1 +1,1 @@
-# test_pg
+#This is a test project for phoneGap.
