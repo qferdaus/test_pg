@@ -1,2 +1,20 @@
-<Test country=Canada>
-</Test>
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "ca.ferdaus.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>PhoneGap Example</name>
+
+  <description>
+      An example for phonegap.
+  </description>
+
+  <author href="http://hm.ferdaus.ca" email="support@ferdaus.ca">
+      Khaled Ferdaus
+  </author>
+
+</widget>
